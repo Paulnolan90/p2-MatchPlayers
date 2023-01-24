@@ -1,0 +1,30 @@
+/* --------- Overall style */
+body {
+    background-color: rgb(12, 1, 1);
+    font-family: "Raleway", sans-serif;
+    color: #C70101;
+    text-align: center;
+}
+/* --------- Heading */
+.heading {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.logo {
+    height: 40px;
+    padding-right: 5px;
+}
+/* --------- Game Area layout  */
+.match-area {
+    background-color: #505354;
+    box-sizing: border-box;
+    width: 85%;
+    height: 65vh;
+    max-height: 800px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
+
